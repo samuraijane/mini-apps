@@ -6,7 +6,7 @@ Because this mini app is written in TypeScript, be sure that you have [these pre
 
 ## Execution
 
-`ts-node`
-`import { printStudentGroups, defaultList } from './index';`
-`printStudentGroups(defaultList)`
-`.exit`
+- `ts-node`
+- `import { printStudentGroups, defaultList } from './index';`
+- `printStudentGroups(defaultList)`
+- `.exit`
